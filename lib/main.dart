@@ -3,7 +3,7 @@ import 'package:celus_fe/core/views/screens/signUpScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'helper/appRoute.dart';
-//wwwwgggggg
+//wwww
 void main() async{
  await InitServices.init();
   runApp(MyApp());
